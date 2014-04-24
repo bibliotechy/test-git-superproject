@@ -1,0 +1,4 @@
+[submodule "test-submodule"]
+	path = test-submodule
+	url = git@github.com:bibliotechy/test-git-submodule.git
+	branch = master
